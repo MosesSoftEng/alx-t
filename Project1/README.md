@@ -1,4 +1,4 @@
-# ALXT Cloud Developer Project 01
+# ALXT Cloud Developer Deploy Static Website on AWS Project
 
 # Project links
 https://dvm1uqlnqe4wc.cloudfront.net
