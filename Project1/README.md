@@ -1,5 +1,10 @@
 # ALXT Cloud Developer Project 01
 
+# Project links
+https://dvm1uqlnqe4wc.cloudfront.net
+http://my-844226296330-static-website.s3-website-us-east-1.amazonaws.com
+
+
 ## S3 bucket is visible in the AWS Management console.
 ![S3 bucket is visible in the AWS Management console.](01-s3-bucket-is-visible-in-the-aws-management-console-screenshot.png)
 
