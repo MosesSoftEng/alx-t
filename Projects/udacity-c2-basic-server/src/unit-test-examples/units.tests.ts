@@ -1,10 +1,15 @@
+// Import modules to test
 import { add, divide } from './units';
 
+
+// Import test modules framework
 import { expect } from 'chai';
 import 'mocha';
 
+// Test Group
 describe('add function', () => {
 
+  // Test
   it('should add two and two', () => {
     const result = add(2,2);
     expect(result).to.equal(4);
